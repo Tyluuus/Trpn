@@ -7,18 +7,52 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D66D385F2957BD6C003AD045 /* SavedTrip.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66D385E2957BD6C003AD045 /* SavedTrip.swift */; };
+		D66D38672957C966003AD045 /* ColorsArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66D38662957C966003AD045 /* ColorsArray.swift */; };
+		D66D38692959BE6E003AD045 /* FirstRunScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66D38682959BE6E003AD045 /* FirstRunScreen.swift */; };
+		D66D386C2959BF8E003AD045 /* Marker Felt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D66D386B2959BF8E003AD045 /* Marker Felt.ttf */; };
+		D66D386F295A5A06003AD045 /* NewTripNameScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66D386E295A5A06003AD045 /* NewTripNameScreen.swift */; };
+		D66D3872295A5AA4003AD045 /* NewElementScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66D3871295A5AA4003AD045 /* NewElementScreen.swift */; };
+		D66D3874295A5AFF003AD045 /* OutdatedTrip.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66D3873295A5AFF003AD045 /* OutdatedTrip.swift */; };
+		D66D3877295A60F4003AD045 /* TripCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66D3876295A60F4003AD045 /* TripCell.swift */; };
+		D66D3879295A65A5003AD045 /* TripButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66D3878295A65A5003AD045 /* TripButtonStyle.swift */; };
+		D66D387C295A6744003AD045 /* TripDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66D387B295A6744003AD045 /* TripDetails.swift */; };
+		D66D387E295A6B22003AD045 /* ChecklistRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66D387D295A6B22003AD045 /* ChecklistRow.swift */; };
+		D6B55B95299ABA5C00D08635 /* MainPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B55B94299ABA5C00D08635 /* MainPage.swift */; };
+		D6B55B99299ABB4800D08635 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B55B98299ABB4800D08635 /* UserData.swift */; };
+		D6B55B9B299C0C8D00D08635 /* IncomingTripButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B55B9A299C0C8D00D08635 /* IncomingTripButton.swift */; };
 		D6C6A2642951130B00C2CE43 /* TrppnApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C6A2632951130B00C2CE43 /* TrppnApp.swift */; };
 		D6C6A2662951130B00C2CE43 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C6A2652951130B00C2CE43 /* ContentView.swift */; };
 		D6C6A2682951130C00C2CE43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6C6A2672951130C00C2CE43 /* Assets.xcassets */; };
 		D6C6A26B2951130C00C2CE43 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6C6A26A2951130C00C2CE43 /* Preview Assets.xcassets */; };
+		D6C6A27E2951176B00C2CE43 /* SwitchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C6A27D2951176B00C2CE43 /* SwitchCell.swift */; };
+		D6C6A2802951192100C2CE43 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C6A27F2951192100C2CE43 /* Extensions.swift */; };
+		D6C6A28229511C7E00C2CE43 /* ChooseCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C6A28129511C7D00C2CE43 /* ChooseCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D66D385E2957BD6C003AD045 /* SavedTrip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedTrip.swift; sourceTree = "<group>"; };
+		D66D38662957C966003AD045 /* ColorsArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsArray.swift; sourceTree = "<group>"; };
+		D66D38682959BE6E003AD045 /* FirstRunScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstRunScreen.swift; sourceTree = "<group>"; };
+		D66D386B2959BF8E003AD045 /* Marker Felt.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Marker Felt.ttf"; sourceTree = "<group>"; };
+		D66D386E295A5A06003AD045 /* NewTripNameScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTripNameScreen.swift; sourceTree = "<group>"; };
+		D66D3871295A5AA4003AD045 /* NewElementScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewElementScreen.swift; sourceTree = "<group>"; };
+		D66D3873295A5AFF003AD045 /* OutdatedTrip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutdatedTrip.swift; sourceTree = "<group>"; };
+		D66D3876295A60F4003AD045 /* TripCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripCell.swift; sourceTree = "<group>"; };
+		D66D3878295A65A5003AD045 /* TripButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripButtonStyle.swift; sourceTree = "<group>"; };
+		D66D387B295A6744003AD045 /* TripDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripDetails.swift; sourceTree = "<group>"; };
+		D66D387D295A6B22003AD045 /* ChecklistRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistRow.swift; sourceTree = "<group>"; };
+		D6B55B94299ABA5C00D08635 /* MainPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPage.swift; sourceTree = "<group>"; };
+		D6B55B98299ABB4800D08635 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		D6B55B9A299C0C8D00D08635 /* IncomingTripButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncomingTripButton.swift; sourceTree = "<group>"; };
 		D6C6A2602951130B00C2CE43 /* Trppn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trppn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6C6A2632951130B00C2CE43 /* TrppnApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrppnApp.swift; sourceTree = "<group>"; };
 		D6C6A2652951130B00C2CE43 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D6C6A2672951130C00C2CE43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6C6A26A2951130C00C2CE43 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D6C6A27D2951176B00C2CE43 /* SwitchCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchCell.swift; sourceTree = "<group>"; };
+		D6C6A27F2951192100C2CE43 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		D6C6A28129511C7D00C2CE43 /* ChooseCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +66,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D66D386A2959BF4E003AD045 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D66D386B2959BF8E003AD045 /* Marker Felt.ttf */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		D66D386D295A59E7003AD045 /* NewTrip */ = {
+			isa = PBXGroup;
+			children = (
+				D66D386E295A5A06003AD045 /* NewTripNameScreen.swift */,
+			);
+			path = NewTrip;
+			sourceTree = "<group>";
+		};
+		D66D3870295A5A8E003AD045 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				D66D3871295A5AA4003AD045 /* NewElementScreen.swift */,
+				D66D387B295A6744003AD045 /* TripDetails.swift */,
+				D6B55B94299ABA5C00D08635 /* MainPage.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		D66D3875295A5DA7003AD045 /* Outdated */ = {
+			isa = PBXGroup;
+			children = (
+				D6C6A27D2951176B00C2CE43 /* SwitchCell.swift */,
+				D6C6A28129511C7D00C2CE43 /* ChooseCell.swift */,
+			);
+			path = Outdated;
+			sourceTree = "<group>";
+		};
+		D66D387A295A6688003AD045 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
 		D6C6A2572951130B00C2CE43 = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +127,11 @@
 		D6C6A2622951130B00C2CE43 /* Trppn */ = {
 			isa = PBXGroup;
 			children = (
+				D66D386A2959BF4E003AD045 /* Resources */,
+				D6C6A27A295116DF00C2CE43 /* Utilities */,
+				D6C6A279295116D700C2CE43 /* Views */,
+				D66D387A295A6688003AD045 /* ViewModels */,
+				D6C6A274295116B000C2CE43 /* Models */,
 				D6C6A2632951130B00C2CE43 /* TrppnApp.swift */,
 				D6C6A2652951130B00C2CE43 /* ContentView.swift */,
 				D6C6A2672951130C00C2CE43 /* Assets.xcassets */,
@@ -65,6 +146,56 @@
 				D6C6A26A2951130C00C2CE43 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D6C6A274295116B000C2CE43 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D66D385E2957BD6C003AD045 /* SavedTrip.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D6C6A279295116D700C2CE43 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D66D3875295A5DA7003AD045 /* Outdated */,
+				D6C6A27C295116FE00C2CE43 /* Screens */,
+				D6C6A27B295116F600C2CE43 /* Components */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D6C6A27A295116DF00C2CE43 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				D6C6A27F2951192100C2CE43 /* Extensions.swift */,
+				D66D38662957C966003AD045 /* ColorsArray.swift */,
+				D6B55B98299ABB4800D08635 /* UserData.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		D6C6A27B295116F600C2CE43 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				D66D3873295A5AFF003AD045 /* OutdatedTrip.swift */,
+				D66D3876295A60F4003AD045 /* TripCell.swift */,
+				D66D3878295A65A5003AD045 /* TripButtonStyle.swift */,
+				D66D387D295A6B22003AD045 /* ChecklistRow.swift */,
+				D6B55B9A299C0C8D00D08635 /* IncomingTripButton.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		D6C6A27C295116FE00C2CE43 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				D66D3870295A5A8E003AD045 /* Main */,
+				D66D386D295A59E7003AD045 /* NewTrip */,
+				D66D38682959BE6E003AD045 /* FirstRunScreen.swift */,
+			);
+			path = Screens;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +257,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6C6A26B2951130C00C2CE43 /* Preview Assets.xcassets in Resources */,
+				D66D386C2959BF8E003AD045 /* Marker Felt.ttf in Resources */,
 				D6C6A2682951130C00C2CE43 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +269,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D66D3877295A60F4003AD045 /* TripCell.swift in Sources */,
+				D66D38672957C966003AD045 /* ColorsArray.swift in Sources */,
+				D66D38692959BE6E003AD045 /* FirstRunScreen.swift in Sources */,
 				D6C6A2662951130B00C2CE43 /* ContentView.swift in Sources */,
+				D66D3872295A5AA4003AD045 /* NewElementScreen.swift in Sources */,
+				D66D387C295A6744003AD045 /* TripDetails.swift in Sources */,
+				D66D3879295A65A5003AD045 /* TripButtonStyle.swift in Sources */,
+				D66D385F2957BD6C003AD045 /* SavedTrip.swift in Sources */,
 				D6C6A2642951130B00C2CE43 /* TrppnApp.swift in Sources */,
+				D6C6A27E2951176B00C2CE43 /* SwitchCell.swift in Sources */,
+				D66D3874295A5AFF003AD045 /* OutdatedTrip.swift in Sources */,
+				D6B55B95299ABA5C00D08635 /* MainPage.swift in Sources */,
+				D6C6A2802951192100C2CE43 /* Extensions.swift in Sources */,
+				D6B55B99299ABB4800D08635 /* UserData.swift in Sources */,
+				D6C6A28229511C7E00C2CE43 /* ChooseCell.swift in Sources */,
+				D66D386F295A5A06003AD045 /* NewTripNameScreen.swift in Sources */,
+				D6B55B9B299C0C8D00D08635 /* IncomingTripButton.swift in Sources */,
+				D66D387E295A6B22003AD045 /* ChecklistRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -11,7 +11,8 @@ import SwiftUI
 struct TrppnApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            TripCell(tripName: "Italy")
+            FirstRunScreen()
         }
     }
 }
